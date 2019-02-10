@@ -2,7 +2,7 @@
 
 This repository contains the entire book in PDF format. Chapters are available seperately and also as a whole book.
 
-If you like the book, it can be purchased on the <a href="http://themlbook.com/">official website of the book</a>.
+If you like the book, it can be purchased on the [official website of the book](http://themlbook.com/).
 
 ## Citation
 ```
